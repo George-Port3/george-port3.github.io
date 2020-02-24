@@ -75,9 +75,9 @@ li {
 }
 
 .button {
-  background-color: turquoise;
+  background-color: yellow;
   border: none;
-  color: white;
+  color: red;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -88,13 +88,13 @@ li {
 }
 
 .button:hover {
-  background-color: white;
-  color: blue;
+  background-color: red;
+  color: yellow;
 }
 
 .header {
   overflow: hidden;
-  background-color: grey;
+  background-color: black;
   background: rgba(0, 0, 0, 0.5);
   padding: 20px 10px;
 }
@@ -114,8 +114,8 @@ li {
 }
 
 .header a:hover {
-  background-color: white;
-  color: blue;
+  background-color: red;
+  color: yellow;
 }
 
 @media screen and (max-width: 500px) {
