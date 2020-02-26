@@ -1,7 +1,8 @@
 * {
   margin:0px;
   padding:0px;
-  font: 60px font-family: 'Odibee Sans', ;
+  font: 60px;
+  font-family: 'Odibee Sans', ;
 }
 
 body {
@@ -33,38 +34,44 @@ img {
 h1 {
   text-align: center;
   color: black;
-  font: 60px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 60px;
+  font-family: 'Odibee Sans', ;
 }
 
 h2 {
   text-align: center;
   color: black;
   font-weight: bold;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 30px;
+  font-family: 'Odibee Sans', ;
 }
 
 h3 {
   text-align: center;
   color: grey;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 30px;
+  font-family: 'Odibee Sans', ;
 }
 
 h4 {
   text-align: center;
   color: white;
-  font: 20px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 20px;
+  font-family: 'Odibee Sans', ;
 }
 
 p {
   text-align: center;
   color: black;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 30px;
+  font-family: 'Odibee Sans', ;
 }
 
 li {
   text-align: center;
   color: black;
-  font: 20px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 20px;
+  font-family: 'Odibee Sans', ;
 }
 
 .center {
