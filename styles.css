@@ -75,8 +75,8 @@ li {
 }
 
 .button {
-  background-color:  neonpink;
-  border: solid;
+  background-color:  violet;
+  border: 2px solid;
   color: turquoise;
   padding: 15px 32px;
   text-align: center;
@@ -85,6 +85,12 @@ li {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  .box-shadow {
+    width: 30px;                
+    height: 30px;
+    box-shadow: 1px 1px 25px;
+    color: #000FF;
 }
 
 .button:hover {
