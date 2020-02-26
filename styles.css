@@ -94,8 +94,8 @@ li {
 }
 
 .button:hover {
-  background-color: black;
-  color: white;
+  background-color: blue;
+  color: purple;
 }
 
 .header {
