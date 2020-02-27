@@ -83,7 +83,7 @@ li {
 
 .button {
   background-color:  purple;
-  border: 2px solid;
+  border: 4px;
   color: turquoise;
   padding: 15px 32px;
   text-align: center;
@@ -101,8 +101,8 @@ li {
 }
 
 .button:hover {
-  background-color: blue;
-  color: purple;
+  background-color: purple;
+  color: blue;
 }
 
 .header {
